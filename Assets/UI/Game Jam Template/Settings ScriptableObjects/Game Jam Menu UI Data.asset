@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0eb2665378a0a41988ba469999b2e3, type: 3}
+  m_Name: Game Jam Menu UI Data
+  m_EditorClassIdentifier: 
+  buttonColorBlock:
+    m_NormalColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 0.49019608}
+    m_HighlightedColor: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+    m_PressedColor: {r: 0.87474656, g: 0.52205884, b: 1, a: 1}
+    m_DisabledColor: {r: 0.56114835, g: 0.6628893, b: 0.71323526, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 1
+  imageColor: {r: 0.3537736, g: 0.7845914, b: 1, a: 1}
+  sliderColorBlock:
+    m_NormalColor: {r: 0.375, g: 0.79310364, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.87474656, g: 0.52205884, b: 1, a: 1}
+    m_PressedColor: {r: 1, g: 0.8088235, b: 0.9630832, a: 1}
+    m_DisabledColor: {r: 0, g: 0, b: 0, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0
+  font: {fileID: 12800000, guid: 4e8d903331ffbc54d809e5e075037d68, type: 3}
+  textColor: {r: 1, g: 1, b: 1, a: 1}

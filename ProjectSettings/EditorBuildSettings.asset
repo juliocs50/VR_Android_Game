@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RVInicial.unity
+    guid: 7a2f9e30e30945447bd55750166cf20b
+  - enabled: 1
+    path: Assets/RVPraia.unity
+    guid: 3ea34c218bf1ede4a88b561bf1a0c9c9
+  - enabled: 1
+    path: Assets/RVFinal.unity
+    guid: 11d8db0d151088f418d27068361069a9
+  - enabled: 1
+    path: Assets/RVMiniGameTutorial.unity
+    guid: 6e26da5d7e7a99242a4155d5361ef427
+  - enabled: 1
+    path: Assets/RVMiniGame.unity
+    guid: c7055d00bb18d0c4fa2909664d55694e
+  - enabled: 1
+    path: Assets/RVPraiaFinal.unity
+    guid: abd54f16b1195d64d90bad9e60d8f557
+  m_configObjects: {}

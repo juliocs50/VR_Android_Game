@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4cd943daa49f7948b37c960e73c1e96, type: 3}
+  m_Name: Normal Monsters
+  m_EditorClassIdentifier: 
+  LootTableName: Normal Monsters
+  Items_DropChance:
+  - TheItem: {fileID: 11400000, guid: a989d1b77436b6946abdae11956b4784, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 39e1f57d41d27e541a355a1294cb33bb, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 615028f185ac7f14dac0c00b4e71cec6, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 3151bee5228a3134e8d9baa7b1e01e91, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 4f3ff6e75e371cf4a94e5d2d74e21e6c, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: d2ad2a5c9c06fd343977324094c24734, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 864395430df3bd340a7754c8a87b8e7f, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: bdcea0ee92bd8dd4f94e3d832e43a0be, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: 558e8f8d1663f6441bdce5762514903e, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: b1d82394a3ed3de41a0e438ee1868eac, type: 2}
+    DropChance: 10
+  - TheItem: {fileID: 11400000, guid: aad77f2b4ee297e409ccfd0bfc34ffbb, type: 2}
+    DropChance: 10
